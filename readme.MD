@@ -30,6 +30,3 @@
 - Session‑based access control.
 
 ---
-
-**End of Assignment II**.  
-Let me know if you need any clarifications or further enhancements!
